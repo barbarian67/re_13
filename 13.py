@@ -28,5 +28,12 @@ for ele in nus:
 	suma += ele
 print suma
 
+ca = 'pakito'
+for letra in ca:
+	print letra
+tu = ('urrrrllll', 'Diego', 123, 165, False)
+for ele in tu:
+	print ele
+
 
 
